@@ -1,0 +1,11 @@
+# Ignore checkpoint files
+**/.ipynb_checkpoints/*
+
+# Ignore cache files
+**/__pycache__/**
+
+# Ignore files marked as old
+**/zOLD/**
+
+# Ignore scrath files
+**scratch**
