@@ -9,3 +9,6 @@
 
 # Ignore scrath files
 **scratch**
+
+# Ignore local data folder
+data/*
